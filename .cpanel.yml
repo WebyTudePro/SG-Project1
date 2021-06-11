@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/avaraycr/schofieldgardens/SG-Project/
-    - /bin/cp * $DEPLOYPATH    
+    - /bin/cp -R * $DEPLOYPATH    
